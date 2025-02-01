@@ -9,14 +9,26 @@
 }
 .s1 {
     text-align: center;
+    
 }
 .s2 {
     text-align: center;
-    color:black;
+    background-color: black;
+}
+.s2 a {
+    color: white;
 }
 .s3 {
     text-align: center;
-    color: black;
+}
+.s4 {
+    text-align: center;
+}
+.s5 {
+    text-align: center;
+}
+.s6 {
+    text-align: center;
 }
 
 #top .myself {
@@ -34,4 +46,17 @@
     margin: 0 auto; 
     width: 300px; 
     height: 500px;
+}
+.color {
+    font-weight: bold;
+}
+footer {
+    text-align: center;
+    background-color: blue;
+}
+footer p {
+    font-weight: bold;
+}
+footer a {
+    text-align: center;
 }
